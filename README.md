@@ -13,4 +13,4 @@ Dieser Ordner ist der GitHub-Pages-Export der SilentObscure MiniGame Engine.
 SOME erzeugt diesen Ordner automatisch neu, wenn der Leaderboard-Export läuft.
 Danach können die Dateien in ein GitHub-Repository kopiert und per GitHub Pages veröffentlicht werden.
 
-Stand: 2026-08-14T12:56:55.5652026Z
+Stand: 2026-08-14T13:01:57.2844403Z
